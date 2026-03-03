@@ -98,16 +98,16 @@ def get_label(window_start, window_end, events_df):
 
 def interpolate_spo2(flow_window, spo2_window):
 
-    # Need at least 2 points to interpolate
+    
     if len(spo2_window) < 2:
         return None
 
-    # Convert timestamps to numeric (nanoseconds)
+    
     flow_times = flow_window["Timestamp"].astype(np.int64).values
     spo2_times = spo2_window["Timestamp"].astype(np.int64).values
     spo2_values = spo2_window["Value"].values
 
-    # Remove NaNs before interpolation
+    
     valid_mask = ~np.isnan(spo2_values)
     spo2_times = spo2_times[valid_mask]
     spo2_values = spo2_values[valid_mask]
