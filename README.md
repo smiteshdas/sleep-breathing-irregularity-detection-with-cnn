@@ -1,4 +1,4 @@
-# Breathig Irregularities Detection with 1D CNN model [AI for Health - SRIP 2026]
+# Sleep Breathing Irregularities Detection with 1D-CNN model [AI for Health - SRIP 2026]
 
 This project deals with training and evaluation of a 1D CNN model for detecting breathing irregularities that occur during sleep. 
 eg: *Hypopnea, Obstructive Sleep Apnea* etc.
