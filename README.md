@@ -5,6 +5,8 @@ eg: *Hypopnea, Obstructive Sleep Apnea* etc.
 
 Run the `train_test_model.py` script to execute the model training and evaluation process.
 
+![Cover Signal Graph](https://raw.githubusercontent.com/smiteshdas/sleep-breathing-irregularity-detection-with-cnn/refs/heads/main/cover.jpg)
+
 ## Usage
 Run all the commands by `cd` to the root directory of the project.
 ### Understanding the Data and Visualization
