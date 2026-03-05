@@ -3,6 +3,8 @@
 This project deals with training and evaluation of a 1D CNN model for detecting breathing irregularities that occur during sleep. 
 eg: *Hypopnea, Obstructive Sleep Apnea* etc.
 
+Run the `train_test_model.py` script to execute the model training and evaluation process.
+
 ## Usage
 Run all the commands by `cd` to the root directory of the project.
 ### Understanding the Data and Visualization
