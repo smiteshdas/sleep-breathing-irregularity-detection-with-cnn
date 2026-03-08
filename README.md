@@ -39,3 +39,6 @@ This command runs the *train_test_model.py* which does the training and testing 
 - Scikit Learn
 - PyTorch
 - SciPy
+
+
+**Note:** ChatGPT was used as a supportive tool while completing this project.
