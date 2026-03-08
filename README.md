@@ -41,4 +41,4 @@ This command runs the *train_test_model.py* which does the training and testing 
 - SciPy
 
 
-**Note:** ChatGPT was used as a supportive tool while completing this project.
+**NOTE:** ChatGPT was used as a supportive tool while completing this project.
